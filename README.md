@@ -3,3 +3,6 @@ I told the AI, "In the distance, a colossal mushroom cloud billowed upwards into
 ![IMG](https://github.com/chiaweilee/chiaweilee/assets/29817353/26af883e-a2ac-422c-8568-e77000c51700)
 
 However, the AI tends to envision the world in an overly idealized manner.
+
+Buy me a coffee:
+- [爱发电](https://afdian.com/a/jsdev)
